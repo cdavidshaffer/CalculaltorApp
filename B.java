@@ -1,5 +1,5 @@
 public class B {
     public void saveTheWorld() {
-        System.out.println("Easier than I thought");
+        System.out.println("Barney wuz here");
     }    
 }
